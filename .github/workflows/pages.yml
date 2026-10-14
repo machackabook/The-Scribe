@@ -1,5 +1,5 @@
 name: Publish Scribe interface
-on:
+'on':
   workflow_dispatch:
     inputs:
       approve_public_shell:
