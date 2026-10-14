@@ -1,0 +1,15 @@
+.private/
+knowledge/
+private_exports/
+site/
+__pycache__/
+*.pyc
+*.vault.json
+*.zip
+*.dmg
+*.sh.payload
+.env
+credentials*.json
+token*.json
+token*.txt
+output/
